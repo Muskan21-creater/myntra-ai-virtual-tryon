@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# CoDivas' HackerRamp: WeForShe Project - FashionFusion Try-On ([Presentation Link](https://docs.google.com/presentation/d/1yKqT0WgER9fl6irTU28eS8ZR80N45BVcXEwQZqRdjfk/edit?usp=sharing))
+# CoDivas' HackerRamp: WeForShe Project - FashionFusion Try-On 
 
 ## Problem Statement
 
@@ -68,6 +68,7 @@ To use this project, follow these steps:
 
 ## User Flow and Data Architecture
 ![image](https://github.com/aasmithadhani/Myntra-CoDivas/blob/main/Application%20screenshots/User%20Flow%20and%20Data%20Architecture.png)
+
 
 
 =======

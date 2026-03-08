@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CoDivas' HackerRamp: WeForShe Project - FashionFusion Try-On ([Presentation Link](https://docs.google.com/presentation/d/1yKqT0WgER9fl6irTU28eS8ZR80N45BVcXEwQZqRdjfk/edit?usp=sharing))
 
 ## Problem Statement
@@ -69,3 +70,33 @@ To use this project, follow these steps:
 ![image](https://github.com/aasmithadhani/Myntra-CoDivas/blob/main/Application%20screenshots/User%20Flow%20and%20Data%20Architecture.png)
 
 
+=======
+# myntra-ai-virtual-tryon
+AI-powered virtual try-on fashion platform that generates personalized outfit recommendations using computer vision, embeddings, and real-time styling with FastAPI and React.
+
+
+## Features
+- Virtual try-on using AI models
+- AI-powered outfit recommendations
+- Image-based clothing search
+- Interactive product catalog
+- Personalized fashion suggestions
+
+## Tech Stack
+Frontend: React + Tailwind  
+Backend: FastAPI  
+Database: SQLite  
+Vector Search: ChromaDB  
+Embeddings: Sentence Transformers  
+
+## How to Run
+
+### Backend
+cd back/backend
+uvicorn app:app --reload
+
+### Frontend
+cd front
+npm install
+npm start
+>>>>>>> 75d2f42b860bd22f765e64ded7d7471325b169e7

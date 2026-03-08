@@ -24,3 +24,5 @@ uploads/
 
 # AI model cache
 .chromadb/
+
+extracted_cloth_images.zip

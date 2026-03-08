@@ -1,0 +1,6 @@
+product_id,name,main_category,subcategory,target_audience,price,rating,quantity,discount,img,extract_images,seller,date
+1,Red Dress,Clothing,Dress,Women,1200,4.5,10,10,images/dress1.jpg,images/dress1.jpg,Myntra,2024-01-10
+2,Blue Jeans,Clothing,Jeans,Women,1500,4.2,8,5,images/jeans1.jpg,images/jeans1.jpg,Myntra,2024-01-11
+3,White Shirt,Clothing,Shirt,Men,900,4.0,12,15,images/shirt1.jpg,images/shirt1.jpg,Myntra,2024-01-12
+4,Black Jacket,Clothing,Jacket,Men,2500,4.6,5,20,images/jacket1.jpg,images/jacket1.jpg,Myntra,2024-01-13
+5,Yellow Top,Clothing,Top,Women,800,4.1,7,10,images/top1.jpg,images/top1.jpg,Myntra,2024-01-14

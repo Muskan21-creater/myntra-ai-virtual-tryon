@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# Build
+dist/
+build/
+
+# Uploaded images
+uploads/
+
+# AI model cache
+.chromadb/

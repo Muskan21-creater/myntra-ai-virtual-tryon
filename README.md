@@ -27,7 +27,7 @@ uvicorn app:app --reload
 cd front
 npm install
 npm start
->>>>>>> 75d2f42b860bd22f765e64ded7d7471325b169e7
+>>>>>>> 
 
 
 ## Problem Statement
@@ -101,3 +101,4 @@ To use this project, follow these steps:
 
 
 =======
+
